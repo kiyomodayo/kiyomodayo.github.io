@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ConnectFour3d",
+"productVersion": "1.0",
+"dataUrl": "gt_exp1.data.unityweb",
+"wasmCodeUrl": "gt_exp1.wasm.code.unityweb",
+"wasmFrameworkUrl": "gt_exp1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
